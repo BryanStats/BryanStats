@@ -4,7 +4,7 @@
 B.S. Statistics, 3.7 GPA. M.S. Statistics (Data Science) incoming Fall 2026.
 1.7 years frontline BSA/AML, KYC/CDD & transaction-monitoring experience at Wells Fargo.
 
-I build quantitative tools that turn messy, real-world data into decisions — with a
+I build quantitative tools that turn messy, real world data into decisions with a
 focus on fraud detection, anomaly detection, and NLP.
 
 📍 San Jose, CA  ·  📫 anthony123.br@gmail.com
@@ -13,7 +13,7 @@ focus on fraud detection, anomaly detection, and NLP.
 
 ### 🔧 Tech
 **Languages:** Python · SQL · R
-**ML/NLP:** scikit-learn · TensorFlow/Keras · spaCy · gensim · BERTopic · sentence-transformers
+**ML/NLP:** scikit-learn · TensorFlow/Keras · spaCy · gensim · BERTopic · sentence transformers
 **Data:** Pandas · NumPy · Tableau · Excel · ETL pipelines · Git
 
 ---
