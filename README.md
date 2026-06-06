@@ -25,7 +25,7 @@ Compared LDA, BERTopic & Top2Vec on scraped Reddit data; selected BERTopic via c
 coherence (0.76 vs 0.51 vs 0.34). Custom pipeline: PMI phrase detection, brand
 disambiguation, 70+ alias normalization.
 
-**[Office Occupancy & COVID Impact — ASA DataFest 2025](https://github.com/BryanStats/)** 🏆 Best Insights Award
+**[Office Occupancy & COVID Impact — ASA DataFest 2025](https://github.com/hpena212/real-estate-office-occupancy-covid)))** 🏆 Best Insights Award
 Analyzed 6 years of office occupancy data across U.S. tech markets; built time-series
 models and client-ready dashboards presented to industry judges.
 
