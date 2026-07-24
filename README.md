@@ -2,7 +2,7 @@
 
 **Statistics (Data Science) grad → fraud, risk & data analytics.**
 
-B.S. Statistics, 3.7 GPA. M.S. Statistics (Data Science) incoming Fall 2026.
+B.S. Statistics, 3.8 GPA. M.S. Statistics (Data Science) incoming Fall 2026.
 1.7 years frontline BSA/AML, KYC/CDD & transaction-monitoring experience at Wells Fargo.
 I build quantitative tools that turn messy, real-world data into decisions — with a
 focus on fraud detection, anomaly detection, and NLP.
