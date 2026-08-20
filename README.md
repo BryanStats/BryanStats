@@ -13,9 +13,9 @@ focus on fraud detection, anomaly detection, and NLP.
 
 ### 🔧 Tech
 
-**Languages:** Python · SQL · R
-**ML/NLP:** scikit-learn · TensorFlow/Keras · spaCy · gensim · BERTopic · sentence-transformers
-**Data:** Pandas · NumPy · Tableau · Excel · ETL pipelines · Git
+- **Languages:** Python · SQL · R
+- **ML/NLP:** scikit-learn · TensorFlow/Keras · spaCy · gensim · BERTopic · sentence-transformers · Claude API (structured extraction)
+- **Data:** Pandas · NumPy · Tableau · Excel · ETL pipelines · Git
 
 ---
 
@@ -35,6 +35,9 @@ Beta-Binomial shrinkage for risk ranking. Installable package with a CLI and uni
 Compared LDA, BERTopic & Top2Vec on scraped Reddit data; selected BERTopic via c_v
 coherence (0.76 vs 0.51 vs 0.34). Custom pipeline: PMI phrase detection, brand
 disambiguation, 70+ alias normalization.
+
+**[Competitive Positioning Monitor](https://github.com/BryanStats/competitive-monitor)**
+Scrapes peer school admissions pages and extracts positioning into a constrained schema via the Claude API. Structured fields are diffed between scans to surface competitor changes; free-text fields excluded after testing showed they drift between runs. robots.txt checked before every fetch.
 
 **[Spam Detection Neural Network](https://github.com/BryanStats/Spam-Detection-LSTM)**
 Text classification model in TensorFlow/Keras with hyperparameter tuning; 98% test accuracy.
